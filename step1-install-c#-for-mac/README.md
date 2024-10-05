@@ -1,0 +1,5 @@
+### Install
+
+```
+dotnet new console
+```
