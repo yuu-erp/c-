@@ -1,0 +1,15 @@
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/bin/Debug/net8.0/step1-install-c#-for-mac
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/bin/Debug/net8.0/step1-install-c#-for-mac.deps.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/bin/Debug/net8.0/step1-install-c#-for-mac.runtimeconfig.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/bin/Debug/net8.0/step1-install-c#-for-mac.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/bin/Debug/net8.0/step1-install-c#-for-mac.pdb
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.AssemblyInfoInputs.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.AssemblyInfo.cs
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.csproj.CoreCompileInputs.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.sourcelink.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/refint/step1-install-c#-for-mac.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.pdb
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/step1-install-c#-for-mac.genruntimeconfig.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step1-install-c#-for-mac/obj/Debug/net8.0/ref/step1-install-c#-for-mac.dll
