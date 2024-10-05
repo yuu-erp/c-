@@ -1,0 +1,15 @@
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/bin/Debug/net8.0/step2-variable
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/bin/Debug/net8.0/step2-variable.deps.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/bin/Debug/net8.0/step2-variable.runtimeconfig.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/bin/Debug/net8.0/step2-variable.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/bin/Debug/net8.0/step2-variable.pdb
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.AssemblyInfoInputs.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.AssemblyInfo.cs
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.csproj.CoreCompileInputs.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.sourcelink.json
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/refint/step2-variable.dll
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.pdb
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/step2-variable.genruntimeconfig.cache
+/Users/hoanlekhai/Documents/project-github/c# tutorial/step2-variable/obj/Debug/net8.0/ref/step2-variable.dll
